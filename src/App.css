@@ -7,20 +7,27 @@
 
 header{
 	flex-basis: 30%;
-	background-color: red;
-	color: white;
+	font-size: 30px;
+	background-color: #1d1b1b;
+	color: #ec2d34;
 }
 
 main{
 	flex-basis: 40%;
-	background-color: green;
+	background-color: #ec2d34;
 	color: white;
 	position: relative;
 }
 
 button{
 	display: block;
+	width: 350px;
+	height: 50px;
+	font-size: 30px;
+	color: #ec2d34;
+	background-color: #1d1b1b;
 	margin: 10px auto;
+	border: 0;
 }
 
 aside{
@@ -29,6 +36,7 @@ aside{
 	position: absolute;
 	right: 0;
 	top: 0;
+	color: black;
 	width: 500px;
 	height: 100%;
 }

@@ -6,7 +6,7 @@ class Main extends Component{
         return(
             <main>
                 Main
-                <button onClick={this.props.increase.bind(this)}>Click me</button>
+                <button onClick={this.props.increase}>Click me to Increse</button>
                 <Aside />
                 {/* <Button /> */}
             </main>
