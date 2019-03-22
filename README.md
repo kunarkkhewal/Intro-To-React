@@ -1,3 +1,9 @@
+Below is the Question given:
+i) Create a layout containing Header,Main,Aside and Footer Component.
+ii) Create a Button in Main Component.
+iii) On Click of the button in Main Component every time, change the counter in the Header Component.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
